@@ -1,4 +1,4 @@
-app = "hst-ai-greeting-app"
+app = "hst-greeting-app"
 primary_region = "dfw"
 
 [build]
